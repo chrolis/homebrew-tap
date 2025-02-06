@@ -16,10 +16,10 @@ cask "kawasemi4" do
               "jp.monokakido.Kawasemi4.Enabler",
             ],
             quit: [
-              "jp.monokakido.Kawasemi4.JET2Server",
               "jp.monokakido.Kawasemi4.PrefTool",
               "jp.monokakido.Kawasemi4.Setup",
               "jp.monokakido.inputmethod.Kawasemi4",
+              "jp.monokakido.Kawasemi4.JET2Server",
             ],
             pkgutil: "jp.monokakido.Kawasemi4.pkg"
 

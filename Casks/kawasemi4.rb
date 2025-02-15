@@ -7,6 +7,7 @@ cask "kawasemi4" do
   desc "Japanese input method editor (IME) produced by Monokakido"
   homepage "https://www.monokakido.jp/ja/mac/kawasemi4/index.html"
 
+  auto_updates true
   depends_on macos: ">= :ventura"
 
   pkg "かわせみ4 インストーラ.pkg"
